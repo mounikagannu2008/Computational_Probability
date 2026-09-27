@@ -85,7 +85,7 @@ def run_genetic_algorithm():
     return best_fitness_over_time
 
 
-if __name__ == "__main__":
-    history = run_genetic_algorithm()
+
+history = run_genetic_algorithm()
 
 
