@@ -6,7 +6,7 @@ A collection of small Python simulations exploring probability, randomness, and 
 
 Computational_Probability/
 │
-├── README.md
+├── README.txt
 │
 ├── birthday_paradox/
 │   └── simulation.py
